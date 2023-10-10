@@ -38,6 +38,9 @@ Hi there, my name is Arbaz Khan. I hold a bachelor's degree in Computer Applicat
   &nbsp;
   &nbsp;
   <a href="https://leetcode.com/arbaazkhanark23/" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+  &nbsp;
+  &nbsp;
+    <a href="https://leetcode.com/arbaazkhanark23/" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
 </div>
 
 
