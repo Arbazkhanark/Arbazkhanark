@@ -40,7 +40,7 @@ Hi there, my name is Arbaz Khan. I hold a bachelor's degree in Computer Applicat
   <a href="https://leetcode.com/arbaazkhanark23/" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
   &nbsp;
   &nbsp;
-    <a href="https://auth.geeksforgeeks.org/user/arbaazkhanark23#!" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" width="200px" height="20px" /> </a>
+    <a href="https://auth.geeksforgeeks.org/user/arbaazkhanark23#!" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" width="100px" height="40px" /> </a>
 </div>
 
 
